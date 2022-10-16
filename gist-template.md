@@ -4,7 +4,7 @@ Regex is short for "regular expression" and is used to define a very specific se
 
 ## Summary
 
-The regex code that will be analyzed is '/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/'
+The regex code that will be analyzed is `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
 
 ## Table of Contents
 
